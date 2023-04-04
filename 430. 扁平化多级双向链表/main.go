@@ -9,6 +9,7 @@ type Node struct {
 	Child *Node
 }
 
+//https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/
 func main() {
 	//stackTest()
 	node := getNode()
